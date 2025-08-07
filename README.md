@@ -2,7 +2,7 @@
 👨🏻‍💻 Software Engineer sharing my journey and learnings in tech<br>👨🏻‍🎓 Studied Computer Science at HCMC Open University<br>💭 Currently exploring back-end web development<br>🎸 Guitar is my way of storytelling without words<br>🏊‍♂️ You’ll probably find me at the pool when I’m not coding
 
 
-![](https://github-readme-stats.vercel.app/api?username=DungIT910&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DungIT910&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
 # 💻 Tech Stack
